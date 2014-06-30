@@ -6,12 +6,35 @@ body {
     font-size: 50px;
     color: #3366dd;
     height: 55px;
+    margin-bottom: 20px;
 }
 
-.tagline {
+.section-heading {
     font-size: 19px;
     color: #808080;
     height: 30px;
+}
+
+.main-feature {
+    height: 80px;
+    width: 185px;
+    
+    margin: 6px;
+    
+    border-radius: 24px;
+}
+
+.other-feature {
+    height: 50px;
+    width: 185px;
+    
+    margin: 6px;
+    
+    border-radius: 0px;
+}
+
+.btn-link{
+    border: solid 1px;
 }
 
 img {
