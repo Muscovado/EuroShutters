@@ -1,0 +1,28 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.logo {
+    font-size: 90px;
+    color: #3366dd;
+    height: 105px;
+}
+
+.tagline {
+    font-size: 19px;
+    color: #808080;
+    height: 30px;
+}
+
+img {
+    height: 75px;
+    width: 75px;
+}
+
+.spacer {
+    height: 75px;
+}
+
+.half-spacer {
+    height: 36px;
+}
