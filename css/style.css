@@ -1,17 +1,23 @@
 body {
     font-family: 'Muli', sans-serif;
+    background: url(/img/bg-6.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+        /*#ffffcc;*/
 }
 
 .logo {
     font-size: 50px;
-    color: #3366dd;
+    color: #d38315;
     height: 55px;
     margin-bottom: 20px;
 }
 
 .section-heading {
     font-size: 19px;
-    color: #808080;
+    color: #0f0902;
     height: 30px;
 }
 
@@ -35,6 +41,19 @@ body {
 
 .btn-link{
     border: solid 1px;
+}
+
+#list-1, #list-2, #list-3,
+#list-4, #list-5, #list-6 {
+    border: solid 1px;
+    width: 185px;
+    list-style: none;
+    margin: 0 auto;
+    background: #fff;
+}
+
+ul {
+    padding-left: 0px;
 }
 
 img {
